@@ -1,0 +1,21 @@
+name: trinobia_singlecell
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipykernel
+  - jupyter
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - plotnine
+  - scanpy
+  - anndata
+  - harmonypy
+  - scrublet
+  - scikit-learn
+  - h5py
+  - gseapy
