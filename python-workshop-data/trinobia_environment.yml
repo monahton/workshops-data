@@ -1,0 +1,13 @@
+name: trinobia_python
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - plotnine
+  - plotly
+  - seaborn
