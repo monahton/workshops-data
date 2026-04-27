@@ -11,4 +11,5 @@ dependencies:
   - plotnine
   - plotly
   - seaborn
+  - streamlit
   - openpyxl
