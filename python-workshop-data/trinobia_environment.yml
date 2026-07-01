@@ -13,3 +13,5 @@ dependencies:
   - seaborn
   - streamlit
   - openpyxl
+  - scikit-learn
+  - biopython
